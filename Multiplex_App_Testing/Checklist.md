@@ -1,26 +1,43 @@
-# **Multiplex Application Testing** #
+# Multiplex Application Testing
 
-### **Description** : Testing the Multiplex mobile app to check main functionality, UI behavior, and how the application reacts to unexpected server responses. 
-Network sniffing is performed during testing. The translation vocabulary is located at the bottom of the page.
-### **Environment** : Windows 10 PRO, Fiddler Classic, Android 13
-### **Created by** : Igor Protsenko
-### **Status** : Done
-### **Version** : 1.1.1
+### Description
+Testing the Multiplex mobile app to verify core functionality, UI behavior, and application reaction to unexpected server responses. Network monitoring is performed during testing.  
+Translation vocabulary is provided at the bottom of the page.
 
-| ID | Test Description                         | Expected result | Status |
-|:---|:-----------------------------------------|:----------------|:------:|
-|TC_1| Installation, deleting and reinstalation of application | Successfull instalation and reinstalion without any troubles | Pass |
-|TC_2| Openning the app, closing and minimizing | Application correctly reacts on openning, closing and minimizing. App is not crashing | Pass  | 
-|TC_3| Main page UI testing, testing of buttons "у кіно", "скоро", "квитки", "фільтри" and burger menu. | Correct reaction and displaying while pressing this buttons | Pass | 
-|TC_4| External link following in application "Multiplex.ua" | Site Multiplex.ua opens in browser | Pass |
-|TC_5| Choose some cinema theater and find available cinema sessions | Correct displaying of films with time and date of available session in choosen cinema theatre | Fail |
-|TC_6| Testing of navigation to cinema theaters | Application open maps and build a route to cinema theatre | Fail | 
-|TC_7| Making a call to cinema via application | Multiplex app opens phone with number and you can make a call | Fail | 
-|TC_8| Create a profile in app, sign in | Succsesfull sign in and creating a profile | Pass |
-|TC_9| Posibility of editing profile, changing of name, surname, email | Application receives new valus | Fail | 
-|TC_10| Byuing tickets for flm session with debit card | After choosing cinema thatre, session, and places application redirects you to payment | Pass |
-|TC_11| Delete profile and try to log in with old credentials | User does not exists message shown | Fail | 
-|TC_12| How application layot reacts on too long long film names with symbols | UI is not broken, application is still available to use | Pass | 
-|TC_13| Testing how application will handle response 500 instead of 200 | Application does not crashes, shows message with server error | Pass |
-----
-### Vocabulary: "у кіно" - "in the cinema"; "скоро" - "soon"; "квитки" - "tickets"; "фільтри" - "Filters"
+### Environment
+- Windows 10 PRO
+- Fiddler Classic
+- Android 13 (Samsung Galaxy A51)
+
+### Created by
+Igor Protsenko
+
+### Status
+Done
+
+### Version
+1.1.1
+
+| ID    | Test Description                                                                 | Expected Result                                                                  | Status |
+|-------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|:------:|
+| TC_1  | Install, delete, and reinstall the application                                  | Application installs and reinstalls successfully without issues                | Pass   |
+| TC_2  | Open the app, close it, and minimize it                                          | The app opens, closes, and minimizes correctly. App does not crash             | Pass   |
+| TC_3  | Main page UI testing: tabs “у кіно”, “скоро”, “квитки”, Filters button, burger menu | Buttons respond correctly and screens display as expected                      | Pass   |
+| TC_4  | Follow an external link in the application (“Multiplex.ua”)                      | The Multiplex.ua website opens in the browser                                   | Pass   |
+| TC_5  | Choose a cinema and view available cinema sessions                               | Available films with times and dates are displayed correctly                    | Fail   |
+| TC_6  | Test navigation to cinema theaters                                               | The app opens maps and displays route to the cinema                             | Fail   |
+| TC_7  | Make a call to the cinema from the application                                   | The phone app opens with the number ready to dial                               | Fail   |
+| TC_8  | Create a profile and sign in                                                     | Profile is created and user can log in                                          | Pass   |
+| TC_9  | Edit profile (change name, surname, email)                                       | Application updates profile fields correctly                                   | Fail   |
+| TC_10 | Purchase tickets for a film session with a debit card                            | After selecting cinema, session, and seats, the app redirects to payment        | Pass   |
+| TC_11 | Delete profile and attempt to log in with old credentials                        | “User does not exist” message is shown                                          | Fail   |
+| TC_12 | Long film name UI behavior                                                       | UI does not break; the application is still usable                              | Pass   |
+| TC_13 | Simulate server response 500 instead of 200                                      | The app does not crash and shows a server error message                         | Pass   |
+
+---
+
+### Vocabulary
+- **у кіно** – *in the cinema*  
+- **скоро** – *soon*  
+- **квитки** – *tickets*  
+- **фільтри** – *Filters*
