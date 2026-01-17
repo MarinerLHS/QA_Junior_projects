@@ -15,7 +15,6 @@ Multiplex is a mobile application that allows users to browse movies and book or
 
 ## Tools Used
 - Fiddler Classic v5.0.20253.3311
-- Postman v11.80.1
 
 ## Environment and Devices
 - Laptop with Windows 10 Pro
