@@ -22,3 +22,5 @@ Network sniffing is performed during testing. The translation vocabulary is loca
 |TC_11| Delete profile and try to log in with old credentials | User does not exists message shown | Fail | 
 |TC_12| How application layot reacts on too long long film names with symbols | UI is not broken, application is still available to use | Pass | 
 |TC_13| Testing how application will handle response 500 instead of 200 | Application does not crashes, shows message with server error | Pass |
+----
+### Vocabulary: "у кіно" - "in the cinema"; "скоро" - "soon"; "квитки" - "tickets"; "фільтри" - "Filters"
