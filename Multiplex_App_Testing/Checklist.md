@@ -24,9 +24,9 @@ Done
 | TC_2  | Open the app, close it, and minimize it                                          | The app opens, closes, and minimizes correctly. App does not crash             | Pass   |
 | TC_3  | Main page UI testing: tabs “у кіно”, “скоро”, “квитки”, Filters button, burger menu | Buttons respond correctly and screens display as expected                      | Pass   |
 | TC_4  | Follow an external link in the application (“Multiplex.ua”)                      | The Multiplex.ua website opens in the browser                                   | Pass   |
-| TC_5  | Choose a cinema theatre and view available cinema sessions                       | Available films in choosen cinema theatre, with time and dates, are displayed correctly         | Fail   |
-| TC_6  | Test navigation to cinema theaters                                               | The app opens maps and displays route to the cinema                             | Fail   |
-| TC_7  | Make a call to the cinema from the application                                   | The phone app opens with the number ready to dial                               | Fail   |
+| TC_5  | Choose a cinema theatre and view available cinema sessions                  | Available films in choosen cinema theatre, with time and dates, are displayed correctly         | Fail   |
+| TC_6  | Test navigation to cinema theaters. Network sniffing                             | The app opens maps and displays route to the cinema                             | Fail   |
+| TC_7  | Make a call to the cinema from the application. Network sniffing                 | The phone app opens with the number ready to dial                               | Fail   |
 | TC_8  | Create a profile and sign in                                                     | Profile is created and user can log in                                          | Pass   |
 | TC_9  | Edit profile (change name, surname, email)                                       | Application updates profile fields correctly                                   | Fail   |
 | TC_10 | Purchase tickets for a film session with a debit card                            | After selecting cinema, session, and seats, the app redirects to payment        | Pass   |
