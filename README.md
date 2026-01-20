@@ -29,9 +29,9 @@ Familiar with manual testing, test case design, and basic SQL queries. Hands-on 
 ## QA PROJECTS / PRACTICAL EXPERIENCE
 - **Swagger Petstore API Testing:** Used Postman to create API requests (GET, POST, DELETE), verify server responses, and perform basic automated tests. Created a checklist in JIRA, 6 positive and 6 negative test cases, 3 bug reports, and 3 flow tests.  
 
-- **Database Testing:** Used PostgreSQL and DBeaver to create and perform basic queries (SELECT, WHERE, JOIN) and validate data. Created 11 positive and 3 negative test cases on GitHub using Markdown for project documentation.  
+- **Database Testing:** Used PostgreSQL and DBeaver to create and perform basic queries with database (SELECT, WHERE, JOIN, data validation). Created 11 Positive and 3 Negative test cases on GitHub using a markdown .md possibilities for formatting and structuring of the project. 
 
-- **Multiplex Mobile App Manual Testing:** Tested main functionality of the application using various testing techniques. Conducted functional testing, smoke testing, navigation, and UI/UX testing. Focused on network testing using Fiddler to monitor app requests and how the UI/layout reacts to unexpected server responses. Created project on GitHub with a test plan, checklist, and 13 test cases with screenshots.  
+- **Multiplex Mobile App Manual Testing:** Tested main functionality of the application using various testing techniques. Performed functional testing, smoke testing, navigation, and UI/UX testing. Focused on network testing using Fiddler (for sniffing) to monitor app requests and how the UI/layout reacts to unexpected server responses. Created project on GitHub with a test plan, checklist, and 13 test cases with screenshots.  
 
 - **Reqres.in REST API Testing:** Tested GET, POST, DELETE endpoints to identify bugs and ensure correct API responses. Created a project on GitHub with 13 documented test cases.  
 
