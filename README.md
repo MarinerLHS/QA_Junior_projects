@@ -11,7 +11,7 @@ GitHub: [https://github.com/MarinerLHS/QA_Junior_projects](https://github.com/Ma
 ---
 
 ## PROFESSIONAL SUMMARY
-Familiar with manual testing, test case design, and basic SQL queries. Hands-on experience testing web and mobile applications using various test design techniques and types of testing, with a structured and detail-oriented approach. Over 10 years of experience in technical fields including mechanical diagnostics, electronics, soldering, troubleshooting, reading schematics, and solving complex technical issues.
+Familiar with manual testing, test case design, and basic SQL queries. Hands-on experience testing web and mobile applications using various test design techniques and types of testing, with a structured and detail-oriented approach. Over 10 years of experience in technical fields including marine engineering, mechanical diagnostics, electronics, troubleshooting, reading schematics, blueprints, and solving complex technical issues.
 
 ---
 
