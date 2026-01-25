@@ -34,5 +34,5 @@
 
 ## Screenshots: 
 
-1. Multiplex.ua tab<img src="../../Multiplex_App_Testing/images/4_External_link/1_Tap_on_Multiplex.ua_tab.jpg" alt="1_Tap_on_Multiplex.ua_tab.jpg" width="30%">
-2. Site in browser<img src="../../Multiplex_App_Testing/images/4_External_link/2_Multiplex.ua_site.jpg" alt="2_Multiplex.ua_site.jpg" width="30%">
+1. Multiplex.ua tab <img src="../../Multiplex_App_Testing/images/4_External_link/1_Tap_on_Multiplex.ua_tab.jpg" alt="1_Tap_on_Multiplex.ua_tab.jpg" width="30%">
+2. Site in browser <img src="../../Multiplex_App_Testing/images/4_External_link/2_Multiplex.ua_site.jpg" alt="2_Multiplex.ua_site.jpg" width="30%">
