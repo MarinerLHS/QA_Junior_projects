@@ -38,4 +38,4 @@
 - **Status**: Pass 
 
 ## Screenshots: 
-1. ![Installation](../../Multiplex_App_Testing/images/1_Installation_And_Uninstalltion/1_Installation.jpg)
+1. [Installation](../../Multiplex_App_Testing/images/1_Installation_And_Uninstalltion/1_Installation.jpg)
