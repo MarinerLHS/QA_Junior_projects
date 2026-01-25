@@ -42,7 +42,6 @@
 - **у кіно** – *in the cinema*  
 - **скоро** – *soon*  
 - **квитки** – *tickets*  
-- **фільтри** – *Filters*
 
 ## Screenshots: 
 
