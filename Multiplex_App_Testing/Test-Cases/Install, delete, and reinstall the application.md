@@ -39,6 +39,6 @@
 
 ## Screenshots: 
 1.
-<img src="../../Multiplex_App_Testing/images/1. Installation And Uninstalltion/1.Installation.jpg" alt="Multiplex installation" width="500" height="700">
+<img src="../../Multiplex_App_Testing/images/1. Installation And Uninstalltion/1.Installation.jpg" alt="Multiplex installation" width="300" height="700">
 2.
-<img src="../../Multiplex_App_Testing/images/1. Installation And Uninstalltion/2.Uninstallation.jpg" alt="Uninstalation" width="500" height="700">
+<img src="../../Multiplex_App_Testing/images/1. Installation And Uninstalltion/2.Uninstallation.jpg" alt="Uninstalation" width="300" height="700">
