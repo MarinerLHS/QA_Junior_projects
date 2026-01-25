@@ -38,4 +38,5 @@
 - **Status**: Pass 
 
 ## Screenshots: 
-1. [Installation](../../Multiplex_App_Testing/images/1_Installation_And_Uninstalltion/1_Installation.jpg)
+
+1. Installtion<img src="../../Multiplex_App_Testing/images/1_Installation_And_Uninstalltion/1_Installation.jpg" alt="Installation" width="30%">
