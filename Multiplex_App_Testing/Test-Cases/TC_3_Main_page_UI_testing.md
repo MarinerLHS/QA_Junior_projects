@@ -46,7 +46,7 @@
 
 ## Screenshots: 
 
-       1."Скоро" button<img src="../../Multiplex_App_Testing/images/3_UI_Buttons_Testing/1_Press_скоро_button.jpg" alt="1_Press_скоро_button" width="30%">
+1. "Скоро" button<img src="../../Multiplex_App_Testing/images/3_UI_Buttons_Testing/1_Press_скоро_button.jpg" alt="1_Press_скоро_button" width="30%">
 2."квитки" button<img src="../../Multiplex_App_Testing/images/3_UI_Buttons_Testing/2_Press_квитки_button.jpg" alt="2_Press_квитки_button.jpg" width="30%">
 
 3."у кино" button<img src="../../Multiplex_App_Testing/images/3_UI_Buttons_Testing/3_Press_у_кино_button.jpg" alt="3_Press_у_кино_button.jpg" width="30%">
