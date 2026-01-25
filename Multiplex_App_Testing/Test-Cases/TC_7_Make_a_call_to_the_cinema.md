@@ -42,4 +42,4 @@
 2. Phone icon <img src="../../Multiplex_App_Testing/images/7_Integration_testing_calls/2_tap_the_phone_icon.jpg" alt="2_tap_the_phone_icon.jpg" width="30%">
 3. Empty dealer <img src="../../Multiplex_App_Testing/images/7_Integration_testing_calls/3_The_application_opens_empty_dealer.jpg" alt="The_application_opens_empty_dealer.jpg" width="30%">
 
-4. Fiddler sniffing <img src="../../Multiplex_App_Testing/images/7_Integration_testing_calls/4_fiddler_sniffing.png" alt="4_fiddler_sniffing.png" width="30%">
+4. Fiddler sniffing <img src="../../Multiplex_App_Testing/images/7_Integration_testing_calls/4_fiddler_sniffing.png" alt="4_fiddler_sniffing.png" width="50%">
