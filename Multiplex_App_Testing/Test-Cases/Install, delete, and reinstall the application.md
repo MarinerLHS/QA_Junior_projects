@@ -17,7 +17,7 @@
 3. Google Play account is available and ready to use. 
 
 ## Steps:
-1. Follow the link https://play.google.com/store/apps/details?id=com.interpretator.multiplex&hl=en
+1. Follow the link [Multiplex](https://play.google.com/store/apps/details?id=com.interpretator.multiplex&hl=en)
 2. Install apllication on your mobile phone. 
 3. Check that installation was successfull, icon presents on mobile phone and it is possible to open the app. 
 4. Uninstall application from mobile phone. 
