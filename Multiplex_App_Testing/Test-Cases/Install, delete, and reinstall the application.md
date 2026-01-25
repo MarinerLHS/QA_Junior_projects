@@ -39,4 +39,5 @@
 
 ## Screenshots: 
 
-1. Installtion<img src="../../Multiplex_App_Testing/images/1_Installation_And_Uninstalltion/1_Installation.jpg" alt="Installation" width="30%">
+1. Installation<img src="../../Multiplex_App_Testing/images/1_Installation_And_Uninstalltion/1_Installation.jpg" alt="Installation" width="30%">
+2. Uninstalation<img src="../../Multiplex_App_Testing/images/1_Installation_And_Uninstalltion/2_Uninstallation.jpg" alt="Uninstallation" width="30%">
