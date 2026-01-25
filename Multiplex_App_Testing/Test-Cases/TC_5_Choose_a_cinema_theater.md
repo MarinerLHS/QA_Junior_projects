@@ -37,7 +37,7 @@
 
 ## Vocabulary: 
 
--кінотеатри = ""cinema theaters" 
+- кінотеатри = ""cinema theaters""
 
 ## Screenshots: 
 
