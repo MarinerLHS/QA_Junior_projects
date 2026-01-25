@@ -36,10 +36,11 @@
 - **Status**: Pass 
 
 ## Screenshots:
-1. App icon<img src="../../Multiplex_App_Testing/images/2_App_open_close_minimize/1_ App_icon.jpg" alt="app-icon" width="30%">
-2. Swiping to the bottom<img src="../../Multiplex_App_Testing/images/2_App_open_close_minimize/2_Swiping_to_the_bottom.jpg" alt="swiping-to-the-bottom" width="30%">
-3. Swiping to the top<img src="../../Multiplex_App_Testing/images/2_App_open_close_minimize/3_Swiping_to_the_top.jpg" alt="swiping-to-the-top" width="30%">
-4. App minimizing<img src="../../Multiplex_App_Testing/images/2_App_open_close_minimize/4_Application_minimizing.jpg" alt="minimizing" width="30%">
-5. Split-screen<img src="../../Multiplex_App_Testing/images/2_App_open_close_minimize/5_Application_Split-screen.jpg" alt="split-screen" width="30%"> 
+
+1.App icon<img src="../../Multiplex_App_Testing/images/2_App_open_close_minimize/1_ App_icon.jpg" alt="app-icon" width="30%">
+2.Swiping to the bottom<img src="../../Multiplex_App_Testing/images/2_App_open_close_minimize/2_Swiping_to_the_bottom.jpg" alt="swiping-to-the-bottom" width="30%">
+3.Swiping to the top<img src="../../Multiplex_App_Testing/images/2_App_open_close_minimize/3_Swiping_to_the_top.jpg" alt="swiping-to-the-top" width="30%">
+4.App minimizing<img src="../../Multiplex_App_Testing/images/2_App_open_close_minimize/4_Application_minimizing.jpg" alt="minimizing" width="30%">
+5.Split-screen<img src="../../Multiplex_App_Testing/images/2_App_open_close_minimize/5_Application_Split-screen.jpg" alt="split-screen" width="30%"> 
 
 
