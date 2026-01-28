@@ -11,7 +11,11 @@ GitHub: [https://github.com/MarinerLHS/QA_Junior_projects](https://github.com/Ma
 ---
 
 ## PROFESSIONAL SUMMARY
-Familiar with manual testing, test case design, and basic SQL queries. Hands-on experience testing web and mobile applications using various test design techniques and types of testing, with a structured and detail-oriented approach. Over 10 years of experience in technical fields including marine engineering, mechanical diagnostics, electronics, troubleshooting, reading schematics, blueprints, and solving complex technical issues.
+Familiar with manual testing, API testing, test case design, and basic SQL queries. Hands-on experience testing web and mobile applications using various test design techniques and types of testing, with a structured and detail-oriented approach. Over 10 years of experience in technical fields including marine engineering, mechanical diagnostics, electronics, troubleshooting, reading schematics, blueprints, and solving complex technical issues.
+
+- 2015–2022: "MSC" Mediterranean Shipping Company; Marine Engineer Officer with designated duties on board ships, worked worldwide in mixed crews.
+- 2022–2025: Bosch Diesel Services; specialist in Common Rail fuel systems; performed diagnostics, repairing, and quality assurance after unit regeneration.
+- 2025–Present: Car mechanic; works with engines and all related systems, diagnostics and problem-solving, electrical and car software troubleshooting, pre- and post-repair vehicle checks.
 
 ---
 
@@ -22,7 +26,7 @@ Familiar with manual testing, test case design, and basic SQL queries. Hands-on 
 - Basic SQL queries: SELECT, WHERE, JOIN, data validation  
 - Knowledge of HTML/CSS  
 - Tools: JIRA, TestRail, Postman, Chrome DevTools, Charles, Fiddler Classic, Android Studio, PostgreSQL, DBeaver, Git Bash, GitHub  
-- Soft skills: attention to detail, analytical thinking, responsibility
+- Soft skills: attention to detail, analytical thinking, responsibility, friendly. 
 
 ---
 
