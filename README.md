@@ -4,7 +4,7 @@
 
 ## Igor Protsenko
 Wroclaw, Poland | +48-572-359-328  
-Email: [igor2012lww@gmail.com](mailto:igor2012lww@gmail.com)  
+Email: [igor2012lww@gmail.com](mailto:i.protsenko.mail@gmail.com)  
 Telegram: [@igor_pro_2020](https://t.me/igor_pro_2020)  
 GitHub: [https://github.com/MarinerLHS/QA_Junior_projects](https://github.com/MarinerLHS/QA_Junior_projects)
 
