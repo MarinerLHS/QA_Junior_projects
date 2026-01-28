@@ -28,7 +28,7 @@ Done
 | TC_6  | Test navigation to cinema theaters.                                              | The app opens maps and displays route to the cinema                             | Fail   |
 | TC_7  | Make a call to the cinema from the application. Network sniffing                 | The phone app opens with the number ready to dial                               | Fail   |
 | TC_8  | Create a profile and sign in                                                     | Profile is created and user can log in                                          | Pass  |
-| TC_9  | Edit profile (change name, surname, email)                                       | Application updates profile fields correctly                                    | Fail   |
+| TC_9  | Edit profile (change name, surname, email)                                       | Application updates profile fields correctly                                    | Blocker |
 | TC_10 | Purchase tickets for a film session with a debit card                            | After selecting cinema, session, and seats, the app redirects to payment        | Pass   |
 | TC_11 | Try to log in with wrong OTP code                                                | “User does not exist” message is shown                                          | Pass   |
 | TC_12 | Long film name UI behavior                                                       | UI does not break; the application is still usable                              | Pass   |
