@@ -31,7 +31,7 @@ Done
 | TC_9  | Edit profile (change name, surname, email)                                       | Application updates profile fields correctly                                    | Blocker |
 | TC_10 | How aplication reacts to high latency                                            | Application shows message “Request timed out. Please try again.”                | Pass   |
 | TC_11 | Try to log in with wrong OTP code                                                | “Wrong code” message is shown                                                    | Pass   |
-| TC_12 | Long film name UI behavior                                                       | UI does not break; the application is still usable                              | Pass   |
+| TC_12 | UI behavior with excessively long movie title                                    | UI does not break; the application is still usable                              | Pass   |
 | TC_13 | Simulate server response 500 instead of 200                                      | The app does not crash and shows a server error message                         | Pass   |
 
 ---
