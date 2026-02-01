@@ -4,7 +4,7 @@
 
 - Type of testing: Functional
 
-- Test Object: Multiplex app 
+- Test Object: Multiplex app, profile editing.
 
 - Test Type: Positive 
 
