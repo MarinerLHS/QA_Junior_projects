@@ -25,7 +25,7 @@
 
 - The application displays all available sessions for the selected cinema.
 - The interface is clear and understandable.
-- Available films are displayed with dates, times, and cinema hall types.
+- Choosen films are displayed with dates, times, and cinema hall types in a pre-selcted cinema theater 
 
 ## Actual Result:
 
