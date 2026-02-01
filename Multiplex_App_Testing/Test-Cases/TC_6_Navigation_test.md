@@ -24,7 +24,8 @@
 
 ## Expected Result:
 
-- The app opens maps and displays route to the cinema
+- The app open maps and build a route to the cinema.
+- You can see an adress of specific cinema in maps app
 
 ## Actual Result:
 
