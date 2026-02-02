@@ -37,8 +37,8 @@
 
 ## Vocabulary: 
 
-- кінотеатри = ""cinema theaters""
+- кінотеатри = ***cinema theaters***
 
 ## Screenshots: 
 
-[Path to folfer with screenshots](../../Multiplex_App_Testing/images/5_Selecting_of_specific_theater)
+[Path to folder with screenshots](../../Multiplex_App_Testing/images/5_Selecting_of_specific_theater)
