@@ -1,5 +1,5 @@
 # Test Case ID: TC_10
-## Title: How aplication reacts to high latency
+## Title: How application reacts to high latency
 ----
 
 - Type of testing: Non-functional
@@ -14,7 +14,7 @@
 1. Mobile phone on Android platform is available and ready to use.
 2. Fiddler on PC is installed and configured.
 3. Stable connection to Wi-Fi network, internet connection is available, proxy is configured.
-3. Multiplex application is installed.
+3. [Multiplex](https://play.google.com/store/apps/details?id=com.interpretator.multiplex&hl=en) application is installed.
 
 ## Steps:
 1. Launch the Multiplex application.
@@ -33,10 +33,14 @@
 
 ## Actual Result:
 
-- App show message request timed out and suggest to refresh the page. 
+- App shows message request timed out and suggest to refresh the page. 
 - Behavior of appliction is predictable and as expected 
 
 - **Status**: Pass 
 
 
 ## Screenshots: 
+
+1. Choose a session <img src=".//.//Multiplex_App_Testing/images/10_high_latency/1_choose_a_session.jpg" alt="1_choose_a_session.jp" width="30%">
+2. Fiddle latency <img src="../../Multiplex_App_Testing/images/10_high_latency/2_fiddler_latency.png" alt="2_fiddler_latency.png" width="30%">
+3. Request timed out <img src="Multiplex_App_Testing/images/10_high_latency/3_reauest_timed_out.jpg" alt="3_reauest_timed_out.jpg" width="30%">
