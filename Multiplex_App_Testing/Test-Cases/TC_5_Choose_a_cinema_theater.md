@@ -1,5 +1,5 @@
 # Test Case ID: TC_5
-## Title: Choose a cinema theatre and view available cinema sessions
+## Title: Choose a cinema theater and view available cinema sessions
 ----
 
 - Type of testing: UI/UX testing
