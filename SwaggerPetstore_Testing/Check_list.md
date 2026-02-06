@@ -1,18 +1,18 @@
-#Public API SwaggerPetsore testing
+# Public API SwaggerPetsore testing
 
-###Description : Testing of public API http://Swagger.io  pet store. Using Postman for API requests, 
+### Description : Testing of public API http://Swagger.io  pet store. Using Postman for API requests, 
 
-###Environment : 
+### Environment : 
 - Windows 10 PRO;
 - Postman  v11.77.2,
 - Jira (link to [Jira](https://igor2012lww.atlassian.net/jira/software/projects/SWAG/boards/68?selectedIssue=SWAG-1))
 - http://Swagger.io ,
 
-###Created by : Igor Protsenko
+### Created by : Igor Protsenko
 
-###Status: Done
+### Status: Done
 
-###Version : 1.1.5
+### Version : 1.1.5
 
 ----
 
