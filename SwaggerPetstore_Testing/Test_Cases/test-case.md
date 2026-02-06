@@ -20,17 +20,12 @@
 
 | ID    | Test Description                                                                 | Server response, expected result                                         | Status |
 |-------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------|:------:|
-| TC_1  | Add a new pet to the store using the ‘POST: add a new pet’ function and entering valid data to all the fields. Check the data in the response body.                    | Application installs and reinstalls successfully without issues                | Pass |
-| TC_2  | Find a pet by using a GET request with valid pet ID, which you used when creating a new pet.                                 
-| Code 200 ‘Successful operation’ The entered data and the data in the response body coincide. | Pass |
-| TC_3  | Update a pet using method PUT, add new ‘category’ ID and category name.                            
-| Code 200 ‘Successful operation’               | Pass   |
-| TC_4  | Update a pet in the store with form data using POST method.                                 
-| Code 200 ‘Successful operation’      | Pass   |
-| TC_5  | Upload an image for existing pet, using method POST                                  
-| Code 200 ‘Successful operation’              | Pass   |
-| TC_6  | Delete a pet using method DELETE                               
-| Code 200 ‘Successful operation’                | Pass   |
+| TC_1  | Add a new pet to the store using the ‘POST: add a new pet’ function and entering valid data to all the fields. Check the data in the response body. | Application installs and reinstalls successfully without issues                | Pass |
+| TC_2  | Find a pet by using a GET request with valid pet ID, which you used when creating a new pet. | Code 200 ‘Successful operation’ The entered data and the data in the response body coincide. | Pass |
+| TC_3  | Update a pet using method PUT, add new ‘category’ ID and category name. | Code 200 ‘Successful operation’               | Pass |
+| TC_4  | Update a pet in the store with form data using POST method.  | Code 200 ‘Successful operation’ | Pass |
+| TC_5  | Upload an image for existing pet, using method POST | Code 200 ‘Successful operation’          | Pass |
+| TC_6  | Delete a pet using method DELETE | Code 200 ‘Successful operation’                | Pass |
 
 ----
 
