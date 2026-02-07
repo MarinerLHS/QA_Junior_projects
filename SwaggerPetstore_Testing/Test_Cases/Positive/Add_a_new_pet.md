@@ -6,7 +6,7 @@
 - Type of testing: Functional
 - Test Object: API
 - Test Type: Positive
-- Link to [Jira](
+- Link to [Jira](https://igor2012lww.atlassian.net/browse/SWAG-2?atlOrigin=eyJpIjoiZGM3NDEyZDViMGNhNDI2OTk3NmRiMDkyZjFjZTcwNDEiLCJwIjoiaiJ9)
 ----
 
 ## Preconditions:
@@ -65,4 +65,4 @@
 - Status: Pass
 
 - Screenshot: 
-<img src="../../SwaggerPetstore_Testing/images/pet/1_create_a_ pet.png" alt="1_create_a_ pet.png" width="60%">
+<img src="../../../SwaggerPetstore_Testing/images/pet/1_create_a_ pet.png" alt="1_create_a_ pet.png" width="60%">
