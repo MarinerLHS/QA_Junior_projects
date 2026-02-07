@@ -17,26 +17,18 @@
 ## Preconditions:
 
 1. Postman is installed on computer. 
-
 2. Create an environment with variable "swagger" and put in a link "https://petstore.swagger.io/v2".
-
 3. Create a "pet" folder in Collections.
-
 4. "https://petstore.swagger.io/" is available and opened to check documentation.
-
 5. Pet with ID 68484 already created.
 
 ## Steps:
 
 1. Add a new request to "Pet" folder.
-
 2. Name the request "Pet update, new category id and tag name"
-
 3. Change method to "PUT"
-
 4. Print to URL-field variable {{swager}} and add /pet . 
-
-5.Open body, chose "raw" and paste an object:
+5. Open body, chose "raw" and paste an object:
 
  ```
 {
@@ -60,7 +52,6 @@
 ```
 
 6. Press the button "Send" observe a response body and status code.
-
 7. Re-check the new data in object, find a pet with ID "68484" using a method GET.
 
 ----
