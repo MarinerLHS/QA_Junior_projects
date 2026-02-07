@@ -2,7 +2,7 @@
 
 ## Title: Add a new pet to the store using the ‘POST: add a new pet’ function and entering valid data to all the fields. Check the data in the response body.
 
-- Link to [Jira](https://igor2012lww.atlassian.net/browse/SWAG-2?atlOrigin=eyJpIjoiZGM3NDEyZDViMGNhNDI2OTk3NmRiMDkyZjFjZTcwNDEiLCJwIjoiaiJ9)
+***Link to [Jira]***(https://igor2012lww.atlassian.net/browse/SWAG-2?atlOrigin=eyJpIjoiZGM3NDEyZDViMGNhNDI2OTk3NmRiMDkyZjFjZTcwNDEiLCJwIjoiaiJ9)
 
 ----
 - Type of testing: Functional
