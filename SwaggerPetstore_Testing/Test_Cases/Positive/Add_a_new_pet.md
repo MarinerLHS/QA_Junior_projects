@@ -12,25 +12,25 @@
 
 ## Preconditions:
 
-1.Postman is installed on computer. 
+1. Postman is installed on computer. 
 
-2.Create an environment with variable "swagger" and put in a link "https://petstore.swagger.io/v2".
+2. Create an environment with variable "swagger" and put in a link "https://petstore.swagger.io/v2".
 
-3.Create a "pet" folder in Collections.
+3. Create a "pet" folder in Collections.
 
-4."https://petstore.swagger.io/" is available and opened to check documentation.
+4. "https://petstore.swagger.io/" is available and opened to check documentation.
 
 ## Steps:
 
-1.Add a new request to "Pet" folder.
+1. Add a new request to "Pet" folder.
 
-2.Name it "Add new pet to the store" 
+2. Name it "Add new pet to the store" 
 
-3.Change method to "POST"
+3. Change method to "POST"
 
-4.Print to URL-field variable {{swager}} and add /pet in the end. 
+4. Print to URL-field variable {{swager}} and add /pet in the end. 
 
-5.Open body, chose "raw" and paste an object:
+5. Open body, chose "raw" and paste an object:
 ```
 {
   "id": 68484,
