@@ -1,6 +1,6 @@
-#Test Case ID: P_01
+# Test Case ID: P_01
 
-##Title: Add a new pet to the store using the ‘POST: add a new pet’ function and entering valid data to all the fields. Check the data in the response body.
+## Title: Add a new pet to the store using the ‘POST: add a new pet’ function and entering valid data to all the fields. Check the data in the response body.
 
 ----
 - Type of testing: Functional
@@ -9,13 +9,13 @@
 - Link to [Jira](
 ----
 
-##Preconditions:
+## Preconditions:
 1.Postman is installed on computer. 
 2.Create an environment with variable "swagger" and put in a link "https://petstore.swagger.io/v2".
 3.Create a "pet" folder in Collections.
 4."https://petstore.swagger.io/" is available and opened to check documentation.
 
-##Steps:
+## Steps:
 
 1.Add a new request to "Pet" folder.
 2.Name it "Add new pet to the store" 
@@ -41,11 +41,11 @@
 }
 6. Press the button "Send" observe a response body and status code.
 
-##Expected Result:
+## Expected Result:
 - Code 200 ‘Successful operation’
 - The entered data and the data in the response body coincide.
 
-##Actual Result:
+## Actual Result:
 
 - Code 200 ‘Successful operation’
 - The entered data and the data in the response body coincide.
