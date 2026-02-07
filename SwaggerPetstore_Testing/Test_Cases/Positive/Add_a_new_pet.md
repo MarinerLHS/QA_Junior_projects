@@ -22,7 +22,8 @@
 3.Change method to "POST"
 4.Print to URL-field variable {{swager}} and add /pet in the end. 
 5.Open body, chose "raw" and paste an object:
- {
+```
+{
   "id": 68484,
   "category": {
     "id": 2,
@@ -39,6 +40,8 @@
   ],
   "status": "available"
 }
+```
+
 6. Press the button "Send" observe a response body and status code.
 
 ## Expected Result:
