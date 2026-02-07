@@ -62,7 +62,7 @@
 - The entered data and the data in the response body coincide.
 
 
-- Status: Pass
-
-- Screenshot: 
+## Status: Pass
+----
+## Screenshot: 
 <img src="../../../SwaggerPetstore_Testing/images/pet/1_create_a_ pet.png" alt="1_create_a_ pet.png" width="70%">
