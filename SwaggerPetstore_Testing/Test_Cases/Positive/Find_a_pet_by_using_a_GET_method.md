@@ -25,13 +25,9 @@
 ## Steps:
 
 1. Add a new request to "Pet" folder.
-
 2. Name the request "Find a pet by ID"
-
 3. Change method to "GET"
-
 4. Print to URL-field variable {{swager}} and add /pet/68484. 
-
 5. Press the button "Send" observe a response body and status code.
 
 ## Expected Result:
