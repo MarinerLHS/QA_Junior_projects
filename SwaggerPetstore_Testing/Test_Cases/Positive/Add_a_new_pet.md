@@ -1,4 +1,4 @@
-# Test Case ID: P_01
+# Test Case ID: TCP_01
 
 ## Title: Add a new pet to the store using the ‘POST: add a new pet’ function and entering valid data to all the fields. Check the data in the response body.
 
@@ -62,4 +62,7 @@
 - The entered data and the data in the response body coincide.
 
 
--Status: Pass
+- Status: Pass
+
+- Screenshot: 
+<img src="../../SwaggerPetstore_Testing/images/pet/1_create_a_ pet.png" alt="1_create_a_ pet.png" width="60%">
