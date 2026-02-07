@@ -17,13 +17,9 @@
 ## Preconditions:
 
 1. Postman is installed on computer. 
-
 2. Create an environment with variable "swagger" and put in a link "https://petstore.swagger.io/v2".
-
-3. Create a "pet" folder in Collections.
- 
+3. Create a "pet" folder in Collections. 
 4. "https://petstore.swagger.io/" is available and opened to check documentation.
-
 5. Pet with ID 68484 already created.
 
 ## Steps:
