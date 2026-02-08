@@ -22,9 +22,15 @@
 
 ### In Scope
 
+- Functional, negative, network, and end-to-end testing of Swagger Petstore public REST API (Pet, User, Store endpoints)
+- Validation of HTTP methods (GET, POST, PUT, DELETE)
+- Manual and automated testing using Postman collections
 
 ### Out of Scope
 
+- UI testing
+- Performance/load testing
+- Database and source code testing
 
 ---
 
@@ -36,8 +42,11 @@
 ---
 
 ## 5. Test Types
+- **Functional Testing**
 - **Network Testing**: Handling of server errors (e.g., 404, 500).
 - **Negative Testing**: Invalid input data.
+- **End-to-End Testing**: Create and delete a pet, try to GET deleted pet. 
+- **Regression Testing** (re-running flows after changes)
 
 ---
 
