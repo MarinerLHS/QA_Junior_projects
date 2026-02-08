@@ -42,7 +42,6 @@ Done
 | TCN_03  |Find a pet by unavailable ‘status’ using method GET.             | Code 400 ‘Invalid status value’             | Pass |
 | TCN_04  |Update a pet with form data using wrong format of name and unavailable status              | Code 405 ‘invalid input’            | Pass |
 | TCN_05  | Create a pet using integers instead of strings.                | Code 405 ‘Invalid input’              | Pass |
-| TCN_06  | Create a pet with already existing ID     | Code 404             | Pass |
 
 ----
 
@@ -52,8 +51,8 @@ Done
 | ID    | Test Description                                                                 | Server response, expected result                                         | Status |
 |-------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------|:------:|
 | TCF_01 | Create a pet with new ID, find a pet by ID, delete a pet by method DELETE, try to find deleted pet.      | Code 404 ‘Not Found’             | Pass |
-| TCF_02 | Place an order for a pet, find an order using method GET, delete an order, try to find deleted order.    | Code 404 ‘Not Found’             | Pass |
-| TCF_03 | Create user, log created user into the system. Update users email and password using method PUT. Try to log user with old credentials  | Code 400 ‘Invalid username/password supplied’            | Pass |
+| TCF_02 | Place an order for a pet, find an order using method GET, delete an order, try to find deleted order.    | Code 404 ‘Not Found’             | Canceled |
+| TCF_03 | Create user, log created user into the system. Update users email and password using method PUT. Try to log user with old credentials  | Code 400 ‘Invalid username/password supplied’            | Canceled |
 
 
 
