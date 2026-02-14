@@ -17,7 +17,7 @@
 
 1. Prepare a POST request to /pet 
 2. Use following json body:
-```
+```json
 {
   "id": 12,
   "category": {
