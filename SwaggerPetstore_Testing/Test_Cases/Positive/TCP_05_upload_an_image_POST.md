@@ -44,7 +44,7 @@ Code 200 ‘Successful operation’. The server has responded as required.
 ## Actual Result:
 
 Code 200 ‘Successful operation’.
-```
+```json
 {
     "code": 200,
     "type": "unknown",
