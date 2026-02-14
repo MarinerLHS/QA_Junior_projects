@@ -23,13 +23,13 @@
 
 ## Steps:
 
-1. Add a 4 new requests to "Flow test" folder.
-2. Name the requests: 
+**1. Add a 4 new requests to "Flow test" folder.**
+**2. Name the requests:**
 - "01 Create a pet" (method POST) URL: {{swagger}}/pet
 - "02 Get pet by ID" (method GET) URL: {{swagger}}/pet/{{pet_id}}
 - "03 Delete a pet" (method DELETE) URL: {{swagger}}/pet/{{pet_id}}
 - "04 Get deleted pet" (method GET) URL: {{swagger}}/pet/{{pet_id}}
-4. Filling requests with data:
+**3. Filling requests with data:**
   ----
   - "01 Create a pet":
 
@@ -158,32 +158,17 @@ pm.test("Response body contains category name", function () {
 
 ----
 
-
-5. Print to URL-field variable {{swager}} and add /pet
-6. Open the Body tab.
-7. Chose "form-data" and enter the following data into the form:
-
-- Key: additionalMetadata, Value: image (type of key is a text)
-- Key: file, Value: a file from a local computer (type of key is a file)
-
-7. Press the button "Send" observe a response body and status code.
+4. Run the collection add 100ms delay between requests.
+5. Observe the response and status of tests. 
 
 ----
 
 ## Expected Result:
-Code 200 ‘Successful operation’. The server has responded as required.
+All tests are passed, the code responses from server are as expected to documentation. 
 
 ## Actual Result:
 
-Code 200 ‘Successful operation’.
-```
-{
-    "code": 200,
-    "type": "unknown",
-    "message": "additionalMetadata: image\nFile uploaded to ./rizensnaucer.jpg, 46721 bytes"
-}
-```
-The server has responded as required.
+Test executed successfully.
 
 ----
 
@@ -193,4 +178,4 @@ The server has responded as required.
 
 ## Screenshot: 
 
-<img src="../../../SwaggerPetstore_Testing/images/pet/5_upload_an_image.png" alt="5_upload_an_image.png" width="70%">
+[Folder with screenshots]()
