@@ -27,7 +27,7 @@
 4. Print to URL-field variable {{swager}} and add /pet. 
 5. Open the Body tab.
 6. In the "raw" section, set the following json body:
-```
+```json
 {
   "id": 12,
   "category": {
@@ -60,7 +60,7 @@ Code 405 ‘Invalid iput’
 ## Actual Result:
 
 Code 500 'The server has encountered a situation it does not know how to handle'
-```
+```json
 {
     "code": 500,
     "type": "unknown",
