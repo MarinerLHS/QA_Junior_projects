@@ -33,7 +33,8 @@
   ----
   - "01 Create a pet":
                       1. Add to body/RAW following JSON data: 
-  ``` {
+  ```json
+  {
   "id": {{$randomInt}},
   "category": {
     "id": 2,
@@ -50,7 +51,7 @@
     }
   ],
   "status": "available"
-} 
+}
 ```
 
 2. Add following code to Scripts/Post-respone: 
