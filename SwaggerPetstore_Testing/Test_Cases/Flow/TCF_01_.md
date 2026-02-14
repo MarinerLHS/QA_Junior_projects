@@ -56,7 +56,7 @@
 
 2. Add following code to Scripts/Post-respone: 
                         
-```
+```javascript
 console.log("test script for POST method")
 pm.collectionVariables.set("pet_id", pm.response.json().id)
 
