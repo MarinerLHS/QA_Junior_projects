@@ -42,7 +42,7 @@ Code 400 ‘Invalid status value’
 ## Actual Result:
 
 Code 200 'Request successful'
-```
+```json
 {
     "code": 200,
     "type": "unknown",
