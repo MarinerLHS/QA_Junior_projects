@@ -1,4 +1,5 @@
 # Title: POST method for updating a pet with unavailable status returns code 200.
+## Bug ID: SWAG-14
 ***Link to [Jira](https://igor2012lww.atlassian.net/browse/SWAG-14?atlOrigin=eyJpIjoiZmY2OTQ5YjVmZTJiNDNlNzhiMWVhZDNjYmZmZjM2NTYiLCJwIjoiaiJ9)***
 
 ## Environment: Windows 10 PRO;  Postman  v11.77.2; API Documentation & Design Tools for Teams | Swagger
@@ -50,4 +51,7 @@
 
 ## Screenshot: 
 
-<img src="../../../" alt="" width="70%">
+<img src="../../SwaggerPetstore_Testing/images/bugs/4_create_a_pet_with_unavailable_status.png" alt="4_create_a_pet_with_unavailable_status.png" width="70%">
+
+<img src="../../SwaggerPetstore_Testing/images/bugs/4_returns_unavailable_status.png" alt="4_returns_unavailable_status.png" width="70%">
+
