@@ -40,7 +40,7 @@ Trying to find a pet with ID 68484: Code 404 'Pet not found'
 ## Actual Result:
 
 Code 200 ‘Successful operation’:
-```
+```json
 {
     "code": 200,
     "type": "unknown",
@@ -50,7 +50,7 @@ Code 200 ‘Successful operation’:
 The server has responded as required.
 
 404 Not Found:
-```
+```json
 {
     "code": 1,
     "type": "error",
