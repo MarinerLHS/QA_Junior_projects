@@ -4,14 +4,14 @@
 
 ## Environment: Windows 10 PRO;  Postman  v11.77.2; API Documentation & Design Tools for Teams | Swagger
 
-## Related Test Case: [TCN_05]()
+## Related Test Case: [TCN_05](../../SwaggerPetstore_Testing/Test_Cases/Negative/TCN_05_string_instead_of_integers.md)
 
 ----
 
 ## Preconditions: 
 
 - Api is running. 
-- Preconditions are the same as in test-case [TCN_05]()
+- Preconditions are the same as in test-case [TCN_05](../../SwaggerPetstore_Testing/Test_Cases/Negative/TCN_05_string_instead_of_integers.md)
 
 ## Steps to Reproduce: 
 
@@ -65,4 +65,4 @@ Response code: 500 'The server has encountered a situation it does not know how 
 
 ## Screenshot: 
 
-<img src="../../../" alt="" width="70%">
+<img src="../../SwaggerPetstore_Testing/images/bugs/5_create_a_pet_with_a_string_instead_of_integer.png" alt="5_create_a_pet_with_a_string_instead_of_integer.png" width="70%">
