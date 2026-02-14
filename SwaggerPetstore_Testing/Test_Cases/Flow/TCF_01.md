@@ -52,8 +52,8 @@
     }
   ],
   "status": "available"
-}
-```
+}```
+
 2. Add following code to Scripts/Post-respone: 
                         
 ```javascript
