@@ -28,7 +28,7 @@
 
 ## Actual Result:  
 - Code 200 'Request successful'
-```
+```json
 {
     "code": 200,
     "type": "unknown",
