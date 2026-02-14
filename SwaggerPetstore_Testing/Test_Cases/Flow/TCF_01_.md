@@ -32,7 +32,8 @@
 4. Filling requests with data:
   ----
   - "01 Create a pet":
-                      1. Add to body/RAW following JSON data: 
+
+    1. Add to body/RAW following JSON data: 
   ```json
   {
   "id": {{$randomInt}},
@@ -87,7 +88,44 @@ pm.test("Response body contains category name", function () {
     pm.expect(jsonData.category.name).to.equal("Dogs");
 }); 
 ```
+3. Save request
 
+----
+
+- "02 Get pet by ID":
+  1. Add following scrip to Scripts/Post-response: 
+
+```javascript
+console.log("test script for POST method")
+pm.collectionVariables.set("pet_id", pm.response.json().id)
+
+pm.test("Status code is 200", function () {
+    pm.response.to.have.status(200);
+});
+
+pm.test("Content-Type is present", function () {
+    pm.response.to.have.header("Content-Type");
+});
+
+pm.test("Response time is less than 9000ms", function () {
+    pm.expect(pm.response.responseTime).to.be.below(9000);
+});
+
+pm.test("Response body contains category id", function () {
+    var jsonData = pm.response.json();
+    pm.expect(jsonData.category.id).to.equal(2);
+});
+
+pm.test("Response body contains name", function () {
+    var jsonData = pm.response.json();
+    pm.expect(jsonData.name).to.equal("Jack");
+});
+
+pm.test("Response body contains category name", function () {
+    var jsonData = pm.response.json();
+    pm.expect(jsonData.category.name).to.equal("Dogs");
+});
+``` 
 
 5. Print to URL-field variable {{swager}} and add /pet
 6. Open the Body tab.
