@@ -28,6 +28,7 @@
 - "02 Get pet by ID" (method GET) URL: {{swagger}}/pet/{{pet_id}}
 - "03 Delete a pet" (method DELETE) URL: {{swagger}}/pet/{{pet_id}}
 - "04 Get deleted pet" (method GET) URL: {{swagger}}/pet/{{pet_id}}
+
 **3. Filling requests with data:**
   ----
   
