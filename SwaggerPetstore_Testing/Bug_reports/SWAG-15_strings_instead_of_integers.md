@@ -45,7 +45,7 @@
 
 ## Actual Result:  
 Response code: 500 'The server has encountered a situation it does not know how to handle'
-```
+```json
 {
     "code": 500,
     "type": "unknown",
