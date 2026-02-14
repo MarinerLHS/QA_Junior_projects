@@ -2,7 +2,6 @@
 
 ## Title: Create a pet with new ID, find a pet by ID, delete a pet by method DELETE, try to find deleted pet.
 
-***Link to [Jira]()*** 
 
 ----
 
