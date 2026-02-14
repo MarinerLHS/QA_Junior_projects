@@ -1,4 +1,5 @@
 # Title: GET /pet/findByStatus returns 200 OK for invalid status value
+## Bug ID: SWAG-13
 ***Link to [Jira](https://igor2012lww.atlassian.net/browse/SWAG-13?atlOrigin=eyJpIjoiMTQ5ZjM2OTExM2ZhNDA3OGI3M2VmMThlMWFmZTZlNzciLCJwIjoiaiJ9)***
 
 ## Environment: Windows 10 PRO;  Postman  v11.77.2; API Documentation & Design Tools for Teams | Swagger
