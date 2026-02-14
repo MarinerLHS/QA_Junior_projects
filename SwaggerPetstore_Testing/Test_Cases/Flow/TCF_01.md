@@ -30,6 +30,7 @@
 - "04 Get deleted pet" (method GET) URL: {{swagger}}/pet/{{pet_id}}
 **3. Filling requests with data:**
   ----
+  
   - "01 Create a pet":
 
     1.Add to body/RAW following JSON data: 
