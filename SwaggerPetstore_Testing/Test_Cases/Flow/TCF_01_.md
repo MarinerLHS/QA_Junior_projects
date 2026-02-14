@@ -34,6 +34,7 @@
   - "01 Create a pet":
 
     1.Add to body/RAW following JSON data: 
+ 
   ```json
   {
   "id": {{$randomInt}},
@@ -88,12 +89,13 @@ pm.test("Response body contains category name", function () {
     pm.expect(jsonData.category.name).to.equal("Dogs");
 }); 
 ```
-3. Save request
+3. Save the request
 
 ----
 
 - "02 Get pet by ID":
-  1.Add following script to Scripts/Post-response: 
+
+   1.Add following script to Scripts/Post-response: 
 
 ```javascript
 console.log("test script for POST method")
@@ -131,21 +133,31 @@ pm.test("Response body contains category name", function () {
 ----
 
 - "03 Delete a pet"
+
    1.Add following script to Scripts/Post-response: 
-  ```javascript
+
+   ```javascript
   pm.test("Status code is 200", function () {
     pm.response.to.have.status(200); 
 });```
+
 2. Save the request 
 
 ----
+
 - "04 Get deleted pet":
-    1.Add following script to Scripts/Post-response:
+
+   1.Add following script to Scripts/Post-response:
+  
   ```javascript
   pm.test("Status code is 404", function () {
     pm.response.to.have.status(404); 
 });```
-2. Save the request. 
+
+2. Save the request.
+
+----
+
 
 5. Print to URL-field variable {{swager}} and add /pet
 6. Open the Body tab.
