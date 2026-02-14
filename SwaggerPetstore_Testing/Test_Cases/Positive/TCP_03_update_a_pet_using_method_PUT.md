@@ -30,7 +30,7 @@
 4. Print to URL-field variable {{swager}} and add /pet . 
 5. Open body, chose "raw" and paste an object:
 
- ```
+ ```json
 {
   "id": 68484,
   "category": {
