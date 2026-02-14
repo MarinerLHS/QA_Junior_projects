@@ -54,9 +54,10 @@
     }
   ],
   "status": "available"
-  } ```
-
-2. Add following code to Scripts/Post-respone: 
+  }
+```
+  
+2.Add following code to Scripts/Post-respone: 
                         
 ```javascript
 console.log("test script for POST method")
