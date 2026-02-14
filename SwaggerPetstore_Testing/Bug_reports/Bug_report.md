@@ -39,4 +39,4 @@
 
 ## Screenshot: 
 
-<img src="../../../" alt="" width="70%">
+<img src="../../../SwaggerPetstore_Testing/images/bugs/3_find_a_pet_by_unavailable_status.png" alt="" width="70%">
