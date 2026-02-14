@@ -36,7 +36,7 @@ Code 400 ‘Invalid ID supplied’ or code 404 ‘Pet not found’
 ## Actual Result:
 
 Code 404 ‘Pet not found’
-```
+```json
 {
     "code": 1,
     "type": "error",
