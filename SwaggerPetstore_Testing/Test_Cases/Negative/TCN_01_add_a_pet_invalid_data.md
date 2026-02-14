@@ -26,7 +26,7 @@
 3. Change method to "POST"
 4. Print to URL-field variable {{swager}} and add /pet in the end. 
 5. Open body, chose "raw" and paste an object(using a special symbols instead of strings in "name" parameters):
-```
+```json
 {
   "id": Dog,
   "category": {
@@ -58,7 +58,7 @@ Code 405 ‘Invalid input’
 ## Actual Result:
 
 Code 400 ‘Bad request’
-```
+```json
 {
     "code": 400,
     "type": "unknown",
