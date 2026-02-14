@@ -47,7 +47,7 @@ Code 200 ‘Successful operation’. The request body has been updated with the 
 ## Actual Result:
 
 Code 200 ‘Successful operation’.
-```
+```json
 {
     "code": 200,
     "type": "unknown",
