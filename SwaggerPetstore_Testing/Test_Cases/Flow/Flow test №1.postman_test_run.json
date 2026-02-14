@@ -1,0 +1,206 @@
+{
+	"id": "adb74a6f-78e5-4453-9ea4-3db4f85f7f5b",
+	"name": "Flow test №1",
+	"timestamp": "2026-02-14T08:01:42.709Z",
+	"collection_id": "50526022-7aa9e68a-9fc1-4573-a82d-00b20dfe05c3",
+	"folder_id": 0,
+	"environment_id": "50526022-9c63085a-ae63-46e7-8bdb-e40ca008d883",
+	"totalPass": 14,
+	"delay": "100",
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2026-02-14T08:01:39.815Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "f294e234-f586-4f25-a904-3194719c8a9a",
+			"name": "01 Create  pet",
+			"url": "https://petstore.swagger.io/v2/pet",
+			"time": 600,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is present": true,
+				"Response time is less than 9000ms": true,
+				"Response body contains category id": true,
+				"Response body contains name": true,
+				"Response body contains category name": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is present": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 9000ms": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains category id": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains name": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains category name": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				600
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Response time is less than 9000ms": true,
+					"Response body contains category id": true,
+					"Response body contains name": true,
+					"Response body contains category name": true
+				}
+			]
+		},
+		{
+			"id": "4b9fe9f3-258f-470b-88b7-d9c19b2bf81e",
+			"name": "02 Get  pet by ID",
+			"url": "https://petstore.swagger.io/v2/pet/173",
+			"time": 122,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is present": true,
+				"Response time is less than 9000ms": true,
+				"Response body contains category id": true,
+				"Response body contains name": true,
+				"Response body contains category name": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is present": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 9000ms": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains category id": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains name": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response body contains category name": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				122
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Response time is less than 9000ms": true,
+					"Response body contains category id": true,
+					"Response body contains name": true,
+					"Response body contains category name": true
+				}
+			]
+		},
+		{
+			"id": "1b40f8cb-e46f-4791-ad5f-1b1702544124",
+			"name": "03 Delete pet",
+			"url": "https://petstore.swagger.io/v2/pet/173",
+			"time": 367,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				367
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "0275959b-f4b6-4c0c-99b5-6b364f88b6e3",
+			"name": "04 Get deleted pet",
+			"url": "https://petstore.swagger.io/v2/pet/173",
+			"time": 123,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found"
+			},
+			"tests": {
+				"Status code is 404": true
+			},
+			"testPassFailCounts": {
+				"Status code is 404": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				123
+			],
+			"allTests": [
+				{
+					"Status code is 404": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 1212,
+	"collection": {
+		"requests": [
+			{
+				"id": "f294e234-f586-4f25-a904-3194719c8a9a",
+				"method": "POST"
+			},
+			{
+				"id": "4b9fe9f3-258f-470b-88b7-d9c19b2bf81e",
+				"method": "GET"
+			},
+			{
+				"id": "1b40f8cb-e46f-4791-ad5f-1b1702544124",
+				"method": "DELETE"
+			},
+			{
+				"id": "0275959b-f4b6-4c0c-99b5-6b364f88b6e3",
+				"method": "GET"
+			}
+		]
+	}
+}
