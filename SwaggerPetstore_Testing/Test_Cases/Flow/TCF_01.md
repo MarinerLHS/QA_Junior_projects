@@ -137,10 +137,11 @@ pm.test("Response body contains category name", function () {
 
    1.Add following script to Scripts/Post-response: 
 
-   ```javascript
+```javascript
   pm.test("Status code is 200", function () {
-    pm.response.to.have.status(200); 
-});```
+    pm.response.to.have.status(200);
+});
+```
 
 2. Save the request 
 
@@ -149,11 +150,12 @@ pm.test("Response body contains category name", function () {
 - "04 Get deleted pet":
 
    1.Add following script to Scripts/Post-response:
-  
-  ```javascript
+
+```javascript
   pm.test("Status code is 404", function () {
-    pm.response.to.have.status(404); 
-});```
+    pm.response.to.have.status(404);
+});
+```
 
 2. Save the request.
 
