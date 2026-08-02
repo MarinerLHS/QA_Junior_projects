@@ -181,4 +181,4 @@ Test executed successfully.
 
 ## Screenshot: 
 
-[Folder with screenshots](../../SwaggerPetstore_Testing/images/flow_test)
+[Folder with screenshots](../../../SwaggerPetstore_Testing/images/flow_test)
